@@ -1,0 +1,14 @@
+.blog-page{
+    text-align: justify;
+    border: 1px solid ;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.text{
+    border: 1px solid ;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

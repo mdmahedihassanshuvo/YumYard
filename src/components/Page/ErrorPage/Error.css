@@ -1,0 +1,18 @@
+.error-container{
+    background-image: url(../../../assets/images/error.2.jpg), url(../../../assets/images/black.png);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-container{
+    position: relative;
+    z-index: 50;
+    color: white;
+}
+.text-container p{
+    font-size: 30px;
+}
+.head{
+    font-size: 50px;
+}
